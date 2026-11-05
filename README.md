@@ -1,1 +1,1 @@
-# Data-Analyti-Lab
+# Data-Analytic-Lab
